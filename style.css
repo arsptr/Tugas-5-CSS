@@ -1,0 +1,13 @@
+.menu{
+    background-color: black;
+    color: white;
+}
+.footer, .footer-alamat{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 12px; 
+}
+p{
+    font-size: 14px;
+}
